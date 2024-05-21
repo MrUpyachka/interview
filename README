@@ -1,0 +1,33 @@
+# interview
+
+## Code quality
+- vulnerabiliries analysis - tools
+- test coverage - line VS branch
+
+## Verson Control Systems
+- why to squash?
+- merge squash vs merge rebase
+- what is the use case for cherry pick?
+- how can I have local file avoided from being comitted to tree? gitignore 
+
+## Dev concepts/principles
+
+## Python
+- return vs yield - why do we need yield?
+
+## Java
+
+## CI/CD
+
+## Generic
+questions you could drop as filler
+- patterns, adapter VS decorator - what is the difference, what do they have in common?
+
+## Tasks
+* design REST API to manage users
+
+# Grooming
+Questions to be analyzed and assigned to proper group:
+
+
+(c) Drunken fights here (Kirill, and place_your_name_here)
