@@ -11,13 +11,14 @@
 - how can I have local file avoided from being comitted to tree? gitignore 
 
 ## Dev concepts/principles
+- Low coupling, High cohesion (GRASP)
 
 ## Python
 - return vs yield - why do we need yield?
 
 ## Java
 
-## CI/CD
+## build tools, CI/CD
 
 ## Generic
 questions you could drop as filler
@@ -26,17 +27,5 @@ questions you could drop as filler
 ## Tasks
 * design REST API to manage users
 
-# Grooming
-Questions to be analyzed and assigned to proper group:
-
-
-(c) Drunken fights here (Kirill, and place_your_name_here)
-
-
-# ideas
-- What are core questions for any interview?
--- icebreaker?
---- something you would change on current project? (you are interviewing for)
---- recent challenges, how to address them?
-- parallel VS concurrent - why different?
-
+## Other
+- Parallel VS concurrent programming
